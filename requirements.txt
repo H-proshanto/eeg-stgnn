@@ -2,3 +2,5 @@ glob2
 pandas
 mne
 numpy
+torch
+torch_geometric
